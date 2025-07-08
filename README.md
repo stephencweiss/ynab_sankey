@@ -2,7 +2,7 @@
 
 This project creates Sankey diagrams from your YNAB (You Need A Budget) transaction data, showing the flow of money from income sources through to spending categories.
 
-![example sankey diagram](./static/example_sankey.png)
+![example sankey diagram at the category group detail level](./static/example_sankey_group.png)
 
 ## What is a Sankey Diagram?
 
@@ -103,6 +103,10 @@ The recommended views are:
 - "Category Group"
 
 The correct choice will depend on how you've set up your budget and what level of detail you're looking for.
+
+Whereas the Sankey at the top of this README is the `Category Group`, when using the `Category` level, you get additional insights.
+
+![example sankey diagram at the category detail level](./static/example_sankey_category.png)
 
 ## Usage
 
