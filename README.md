@@ -94,6 +94,16 @@ The date range of what's included in the Sankey is controlled by the `start_date
 start_date = pd.to_datetime('2025-01-01')
 ```
 
+### Outflow Groupings
+
+YNAB provides multiple ways to group the data in your Sankey for the "Outflow" columns.
+The recommended views are:
+
+- "Category"
+- "Category Group"
+
+The correct choice will depend on how you've set up your budget and what level of detail you're looking for.
+
 ## Usage
 
 1. **Place your YNAB data** in `ynab_data/register.csv`

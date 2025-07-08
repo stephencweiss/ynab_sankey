@@ -3,6 +3,9 @@ import plotly.graph_objects as go
 from config.account_filter import account_filter
 
 register_path = 'ynab_data/fake_register.csv'
+# Common options are "Category Group" or "Category"
+outflow_column = "Category Group"
+
 
 df = pd.read_csv(register_path)
 
@@ -58,10 +61,10 @@ df_inflows = df_inflows.groupby(['Source', 'Target']).Amount.sum().reset_index()
 # Step 2: Aggregate all outflows from "Income" to spending category groups
 df_outflows = df[df['Amount'] < 0].copy()
 df_outflows['Source'] = 'Income'  # Source is the "Income" bucket
-df_outflows['Target'] = df_outflows['Category Group']  # Target is the spending category group
+df_outflows['Target'] = df_outflows[outflow_column]
 
 # Calculate transaction counts for outflows before grouping
-outflow_counts = df_outflows.groupby('Category Group').size().to_dict()
+outflow_counts = df_outflows.groupby(outflow_column).size().to_dict()
 df_outflows = df_outflows.groupby(['Source', 'Target']).Amount.sum().abs().reset_index()
 
 # Combine the flows
@@ -96,7 +99,7 @@ total_inflow = df[df['Amount'] > 0]['Amount'].sum()
 total_outflow = abs(df[df['Amount'] < 0]['Amount'].sum())
 net_flow = total_inflow - total_outflow
 unique_accounts = len(df['Account'].unique())
-unique_categories = len(df['Category Group'].unique())
+unique_categories = len(df[outflow_column].unique())
 
 # Create enhanced node labels with transaction counts
 node_labels = []
