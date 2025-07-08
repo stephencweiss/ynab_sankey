@@ -1,0 +1,113 @@
+Account,Flag,Date,Payee,Category Group/Category,Category Group,Category,Memo,Outflow,Inflow,Cleared
+Job 2,,01/08/2025,Job 2 Payroll,Inflow: Ready to Assign,Inflow,Ready to Assign,Salary from Job 2,$0.00,$3746.43,Cleared
+Mastercard,,01/09/2025,Nike,Clothes: Accessories,Clothes,Accessories,Purchase at Nike,$96.55,$0.00,Cleared
+Checking,,01/12/2025,Home Depot,Home: Rent/Mortgage,Home,Rent/Mortgage,Purchase at Home Depot,$326.40,$0.00,Uncleared
+Amex,,01/17/2025,Restaurant,Vacation: Food & Dining,Vacation,Food & Dining,Purchase at Restaurant,$355.30,$0.00,Cleared
+Checking,,01/19/2025,Shell,Car: Parking,Car,Parking,Purchase at Shell,$78.36,$0.00,Cleared
+Visa,,01/20/2025,Amazon,Gifts: Birthday Gifts,Gifts,Birthday Gifts,Purchase at Amazon,$254.31,$0.00,Uncleared
+Amex,,01/20/2025,Nordstrom,Clothes: Work Clothes,Clothes,Work Clothes,Purchase at Nordstrom,$389.28,$0.00,Uncleared
+Discover,,01/21/2025,Amazon,Gifts: Birthday Gifts,Gifts,Birthday Gifts,Purchase at Amazon,$329.28,$0.00,Cleared
+Checking,,01/22/2025,State Farm,Car: Car Payment,Car,Car Payment,Purchase at State Farm,$432.21,$0.00,Cleared
+Job 1,,01/23/2025,Job 1 Payroll,Inflow: Ready to Assign,Inflow,Ready to Assign,Salary from Job 1,$0.00,$4889.91,Cleared
+Visa,,01/24/2025,Zara,Clothes: Casual Clothes,Clothes,Casual Clothes,Purchase at Zara,$340.27,$0.00,Uncleared
+Visa,,01/26/2025,Uber,Vacation: Airfare,Vacation,Airfare,Purchase at Uber,$273.50,$0.00,Cleared
+Mastercard,,02/02/2025,Marriott,Vacation: Food & Dining,Vacation,Food & Dining,Purchase at Marriott,$296.31,$0.00,Cleared
+Discover,,02/03/2025,Zara,Clothes: Accessories,Clothes,Accessories,Purchase at Zara,$191.37,$0.00,Uncleared
+Discover,,02/05/2025,Local Store,Gifts: Wedding Gifts,Gifts,Wedding Gifts,Purchase at Local Store,$229.47,$0.00,Cleared
+Discover,,02/06/2025,Uber,Vacation: Airfare,Vacation,Airfare,Purchase at Uber,$149.22,$0.00,Cleared
+Job 2,,02/07/2025,Job 2 Payroll,Inflow: Ready to Assign,Inflow,Ready to Assign,Salary from Job 2,$0.00,$2447.34,Cleared
+Discover,,02/07/2025,H&M,Clothes: Casual Clothes,Clothes,Casual Clothes,Purchase at H&M,$279.70,$0.00,Uncleared
+Checking,,02/09/2025,Shell,Car: Maintenance,Car,Maintenance,Purchase at Shell,$306.03,$0.00,Cleared
+Mastercard,,02/09/2025,Restaurant,Vacation: Airfare,Vacation,Airfare,Purchase at Restaurant,$84.86,$0.00,Uncleared
+Mastercard,,02/16/2025,Airbnb,Vacation: Food & Dining,Vacation,Food & Dining,Purchase at Airbnb,$52.14,$0.00,Cleared
+Mastercard,,02/21/2025,Nordstrom,Clothes: Shoes,Clothes,Shoes,Purchase at Nordstrom,$134.84,$0.00,Cleared
+Job 2,,02/22/2025,Job 2 Payroll,Inflow: Ready to Assign,Inflow,Ready to Assign,Salary from Job 2,$0.00,$4197.48,Cleared
+Checking,,02/24/2025,Shell,Car: Maintenance,Car,Maintenance,Purchase at Shell,$460.85,$0.00,Cleared
+Mastercard,,02/24/2025,Zara,Clothes: Casual Clothes,Clothes,Casual Clothes,Purchase at Zara,$453.24,$0.00,Uncleared
+Mastercard,,02/26/2025,Uber,Vacation: Airfare,Vacation,Airfare,Purchase at Uber,$280.57,$0.00,Cleared
+Checking,,02/26/2025,City Parking,Car: Parking,Car,Parking,Purchase at City Parking,$234.62,$0.00,Cleared
+Discover,,02/27/2025,Airbnb,Vacation: Airfare,Vacation,Airfare,Purchase at Airbnb,$322.14,$0.00,Cleared
+Mastercard,,02/28/2025,Amazon,Gifts: Charitable Donations,Gifts,Charitable Donations,Purchase at Amazon,$248.11,$0.00,Uncleared
+Mastercard,,02/28/2025,Nordstrom,Clothes: Work Clothes,Clothes,Work Clothes,Purchase at Nordstrom,$107.32,$0.00,Uncleared
+Amex,,03/01/2025,Target,Gifts: Birthday Gifts,Gifts,Birthday Gifts,Purchase at Target,$384.34,$0.00,Uncleared
+Mastercard,,03/03/2025,H&M,Clothes: Casual Clothes,Clothes,Casual Clothes,Purchase at H&M,$126.37,$0.00,Cleared
+Visa,,03/03/2025,Airbnb,Vacation: Airfare,Vacation,Airfare,Purchase at Airbnb,$294.70,$0.00,Cleared
+Checking,,03/03/2025,Peoples Gas,Home: Home Maintenance,Home,Home Maintenance,Purchase at Peoples Gas,$409.88,$0.00,Uncleared
+Mastercard,,03/06/2025,Charity Organization,Gifts: Charitable Donations,Gifts,Charitable Donations,Purchase at Charity Organization,$36.49,$0.00,Cleared
+Visa,,03/06/2025,Target,Clothes: Accessories,Clothes,Accessories,Purchase at Target,$41.73,$0.00,Uncleared
+Mastercard,,03/07/2025,H&M,Clothes: Accessories,Clothes,Accessories,Purchase at H&M,$91.24,$0.00,Uncleared
+Mastercard,,03/07/2025,Nike,Clothes: Casual Clothes,Clothes,Casual Clothes,Purchase at Nike,$284.16,$0.00,Uncleared
+Job 2,,03/09/2025,Job 2 Payroll,Inflow: Ready to Assign,Inflow,Ready to Assign,Salary from Job 2,$0.00,$2388.50,Cleared
+Checking,,03/09/2025,IKEA,Home: Home Maintenance,Home,Home Maintenance,Purchase at IKEA,$357.61,$0.00,Uncleared
+Amex,,03/11/2025,Target,Clothes: Shoes,Clothes,Shoes,Purchase at Target,$335.50,$0.00,Cleared
+Checking,,03/12/2025,Peoples Gas,Home: Furniture,Home,Furniture,Purchase at Peoples Gas,$469.41,$0.00,Uncleared
+Amex,,03/13/2025,Nike,Clothes: Work Clothes,Clothes,Work Clothes,Purchase at Nike,$28.31,$0.00,Uncleared
+Checking,,03/13/2025,IKEA,Home: Utilities,Home,Utilities,Purchase at IKEA,$194.40,$0.00,Uncleared
+Visa,,03/15/2025,H&M,Clothes: Work Clothes,Clothes,Work Clothes,Purchase at H&M,$40.51,$0.00,Uncleared
+Checking,,03/15/2025,ComEd,Home: Rent/Mortgage,Home,Rent/Mortgage,Purchase at ComEd,$285.35,$0.00,Uncleared
+Discover,,03/17/2025,Nordstrom,Clothes: Casual Clothes,Clothes,Casual Clothes,Purchase at Nordstrom,$229.07,$0.00,Cleared
+Discover,,03/18/2025,Target,Gifts: Wedding Gifts,Gifts,Wedding Gifts,Purchase at Target,$145.78,$0.00,Cleared
+Visa,,03/19/2025,Airbnb,Vacation: Hotels,Vacation,Hotels,Purchase at Airbnb,$230.34,$0.00,Uncleared
+Amex,,03/23/2025,United Airlines,Vacation: Transportation,Vacation,Transportation,Purchase at United Airlines,$413.69,$0.00,Cleared
+Job 1,,03/24/2025,Job 1 Payroll,Inflow: Ready to Assign,Inflow,Ready to Assign,Salary from Job 1,$0.00,$4322.06,Cleared
+Checking,,03/24/2025,Shell,Car: Gas,Car,Gas,Purchase at Shell,$314.09,$0.00,Uncleared
+Discover,,03/24/2025,Charity Organization,Gifts: Wedding Gifts,Gifts,Wedding Gifts,Purchase at Charity Organization,$171.83,$0.00,Uncleared
+Checking,,03/26/2025,Shell,Car: Maintenance,Car,Maintenance,Purchase at Shell,$241.73,$0.00,Cleared
+Checking,,03/26/2025,ComEd,Home: Utilities,Home,Utilities,Purchase at ComEd,$24.30,$0.00,Cleared
+Visa,,03/28/2025,Zara,Clothes: Shoes,Clothes,Shoes,Purchase at Zara,$194.15,$0.00,Cleared
+Discover,,03/28/2025,Marriott,Vacation: Food & Dining,Vacation,Food & Dining,Purchase at Marriott,$393.22,$0.00,Cleared
+Amex,,03/30/2025,H&M,Clothes: Shoes,Clothes,Shoes,Purchase at H&M,$86.40,$0.00,Cleared
+Checking,,03/31/2025,Landlord,Home: Home Maintenance,Home,Home Maintenance,Purchase at Landlord,$254.08,$0.00,Uncleared
+Checking,,03/31/2025,Shell,Car: Parking,Car,Parking,Purchase at Shell,$303.05,$0.00,Uncleared
+Visa,,04/01/2025,Target,Clothes: Work Clothes,Clothes,Work Clothes,Purchase at Target,$342.89,$0.00,Uncleared
+Visa,,04/04/2025,Amazon,Gifts: Holiday Gifts,Gifts,Holiday Gifts,Purchase at Amazon,$92.36,$0.00,Uncleared
+Visa,,04/06/2025,Zara,Clothes: Casual Clothes,Clothes,Casual Clothes,Purchase at Zara,$294.00,$0.00,Cleared
+Checking,,04/06/2025,Jiffy Lube,Car: Maintenance,Car,Maintenance,Purchase at Jiffy Lube,$477.16,$0.00,Uncleared
+Discover,,04/07/2025,Nordstrom,Clothes: Accessories,Clothes,Accessories,Purchase at Nordstrom,$161.66,$0.00,Uncleared
+Discover,,04/07/2025,Target,Clothes: Casual Clothes,Clothes,Casual Clothes,Purchase at Target,$191.01,$0.00,Uncleared
+Job 1,,04/08/2025,Job 1 Payroll,Inflow: Ready to Assign,Inflow,Ready to Assign,Salary from Job 1,$0.00,$4842.67,Cleared
+Amex,,04/09/2025,Target,Clothes: Work Clothes,Clothes,Work Clothes,Purchase at Target,$14.39,$0.00,Uncleared
+Amex,,04/15/2025,Charity Organization,Gifts: Charitable Donations,Gifts,Charitable Donations,Purchase at Charity Organization,$62.39,$0.00,Cleared
+Mastercard,,04/15/2025,Zara,Clothes: Accessories,Clothes,Accessories,Purchase at Zara,$137.85,$0.00,Cleared
+Amex,,04/16/2025,Nordstrom,Clothes: Accessories,Clothes,Accessories,Purchase at Nordstrom,$429.73,$0.00,Uncleared
+Checking,,04/16/2025,Home Depot,Home: Furniture,Home,Furniture,Purchase at Home Depot,$99.64,$0.00,Uncleared
+Checking,,04/17/2025,Shell,Car: Maintenance,Car,Maintenance,Purchase at Shell,$257.41,$0.00,Uncleared
+Mastercard,,04/19/2025,United Airlines,Vacation: Airfare,Vacation,Airfare,Purchase at United Airlines,$67.63,$0.00,Uncleared
+Mastercard,,04/21/2025,Marriott,Vacation: Food & Dining,Vacation,Food & Dining,Purchase at Marriott,$449.63,$0.00,Uncleared
+Job 1,,04/23/2025,Job 1 Payroll,Inflow: Ready to Assign,Inflow,Ready to Assign,Salary from Job 1,$0.00,$3419.70,Cleared
+Mastercard,,04/28/2025,Target,Gifts: Holiday Gifts,Gifts,Holiday Gifts,Purchase at Target,$440.65,$0.00,Uncleared
+Discover,,05/04/2025,Local Store,Gifts: Wedding Gifts,Gifts,Wedding Gifts,Purchase at Local Store,$439.71,$0.00,Uncleared
+Checking,,05/05/2025,City Parking,Car: Parking,Car,Parking,Purchase at City Parking,$151.99,$0.00,Uncleared
+Checking,,05/06/2025,IKEA,Home: Rent/Mortgage,Home,Rent/Mortgage,Purchase at IKEA,$145.11,$0.00,Cleared
+Checking,,05/06/2025,Toyota Finance,Car: Maintenance,Car,Maintenance,Purchase at Toyota Finance,$120.97,$0.00,Uncleared
+Job 2,,05/08/2025,Job 2 Payroll,Inflow: Ready to Assign,Inflow,Ready to Assign,Salary from Job 2,$0.00,$2175.03,Cleared
+Amex,,05/12/2025,Charity Organization,Gifts: Holiday Gifts,Gifts,Holiday Gifts,Purchase at Charity Organization,$334.72,$0.00,Cleared
+Checking,,05/21/2025,Toyota Finance,Car: Parking,Car,Parking,Purchase at Toyota Finance,$277.06,$0.00,Uncleared
+Amex,,05/22/2025,Charity Organization,Gifts: Holiday Gifts,Gifts,Holiday Gifts,Purchase at Charity Organization,$164.03,$0.00,Uncleared
+Job 2,,05/23/2025,Job 2 Payroll,Inflow: Ready to Assign,Inflow,Ready to Assign,Salary from Job 2,$0.00,$4278.73,Cleared
+Checking,,05/25/2025,Shell,Car: Maintenance,Car,Maintenance,Purchase at Shell,$133.37,$0.00,Uncleared
+Mastercard,,05/26/2025,United Airlines,Vacation: Activities,Vacation,Activities,Purchase at United Airlines,$449.99,$0.00,Cleared
+Amex,,05/30/2025,Nordstrom,Clothes: Work Clothes,Clothes,Work Clothes,Purchase at Nordstrom,$265.99,$0.00,Uncleared
+Amex,,05/30/2025,Uber,Vacation: Transportation,Vacation,Transportation,Purchase at Uber,$389.14,$0.00,Cleared
+Checking,,05/30/2025,Peoples Gas,Home: Rent/Mortgage,Home,Rent/Mortgage,Purchase at Peoples Gas,$473.56,$0.00,Cleared
+Mastercard,,06/04/2025,Charity Organization,Gifts: Wedding Gifts,Gifts,Wedding Gifts,Purchase at Charity Organization,$407.93,$0.00,Uncleared
+Discover,,06/06/2025,Local Store,Gifts: Holiday Gifts,Gifts,Holiday Gifts,Purchase at Local Store,$211.20,$0.00,Uncleared
+Job 1,,06/07/2025,Job 1 Payroll,Inflow: Ready to Assign,Inflow,Ready to Assign,Salary from Job 1,$0.00,$4226.81,Cleared
+Checking,,06/08/2025,Shell,Car: Gas,Car,Gas,Purchase at Shell,$382.38,$0.00,Cleared
+Checking,,06/10/2025,Landlord,Home: Rent/Mortgage,Home,Rent/Mortgage,Purchase at Landlord,$42.43,$0.00,Cleared
+Checking,,06/10/2025,Peoples Gas,Home: Utilities,Home,Utilities,Purchase at Peoples Gas,$33.22,$0.00,Cleared
+Visa,,06/12/2025,Uber,Vacation: Hotels,Vacation,Hotels,Purchase at Uber,$351.01,$0.00,Uncleared
+Checking,,06/12/2025,Landlord,Home: Utilities,Home,Utilities,Purchase at Landlord,$98.13,$0.00,Uncleared
+Checking,,06/13/2025,Landlord,Home: Rent/Mortgage,Home,Rent/Mortgage,Purchase at Landlord,$331.68,$0.00,Cleared
+Checking,,06/14/2025,Peoples Gas,Home: Utilities,Home,Utilities,Purchase at Peoples Gas,$455.27,$0.00,Cleared
+Visa,,06/16/2025,Marriott,Vacation: Airfare,Vacation,Airfare,Purchase at Marriott,$476.68,$0.00,Cleared
+Amex,,06/19/2025,Nike,Clothes: Shoes,Clothes,Shoes,Purchase at Nike,$487.33,$0.00,Cleared
+Job 2,,06/22/2025,Job 2 Payroll,Inflow: Ready to Assign,Inflow,Ready to Assign,Salary from Job 2,$0.00,$3862.67,Cleared
+Mastercard,,06/22/2025,United Airlines,Vacation: Activities,Vacation,Activities,Purchase at United Airlines,$78.98,$0.00,Cleared
+Discover,,06/22/2025,Airbnb,Vacation: Food & Dining,Vacation,Food & Dining,Purchase at Airbnb,$200.86,$0.00,Uncleared
+Checking,,06/23/2025,Home Depot,Home: Rent/Mortgage,Home,Rent/Mortgage,Purchase at Home Depot,$268.97,$0.00,Cleared
+Mastercard,,06/25/2025,Airbnb,Vacation: Food & Dining,Vacation,Food & Dining,Purchase at Airbnb,$452.65,$0.00,Cleared
+Checking,,06/29/2025,Home Depot,Home: Home Maintenance,Home,Home Maintenance,Purchase at Home Depot,$310.64,$0.00,Uncleared
+Visa,,06/29/2025,Amazon,Gifts: Birthday Gifts,Gifts,Birthday Gifts,Purchase at Amazon,$71.54,$0.00,Cleared
+Checking,,06/30/2025,State Farm,Car: Insurance,Car,Insurance,Purchase at State Farm,$436.40,$0.00,Cleared
+Visa,,07/04/2025,Charity Organization,Gifts: Charitable Donations,Gifts,Charitable Donations,Purchase at Charity Organization,$135.10,$0.00,Cleared
