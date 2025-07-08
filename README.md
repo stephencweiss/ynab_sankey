@@ -71,9 +71,8 @@ You can automatically generate the `account_filter.py` file from your YNAB regis
 python get_accounts.py ynab_data/register.csv
 ```
 
-- This script will scan your `register.csv` and create (or overwrite) `account_filter.py` with all unique accounts set to `True` by default.
+- This script will scan your `register.csv` and create (or overwrite) `config/account_filter.py` with all unique accounts set to `True` by default.
 - Edit the generated `account_filter.py` to set `False` for any accounts you want to exclude from the analysis.
-- The script uses [pandas](https://pandas.pydata.org/) for robust CSV handling (already included in `requirements.txt`).
 
 #### Manually Configure
 
